@@ -6,11 +6,9 @@
 <h3 align="center">A passionate Developer</h3>
 
 <h3 align="center">Check out this cool video:</h3>
-<video controls width="640" height="360" align="center">
-  <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+<div align="center">
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+</div>
 <!-- Profile Views -->
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=skylakefreak&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
