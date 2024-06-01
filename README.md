@@ -1,14 +1,5 @@
 <!-- Dark Background -->
-<style>
-  body {
-    background-color: #1a1b27;
-    color: #d0d0d0;
-    font-family: Arial, sans-serif;
-  }
-  h1, h3 {
-    color: #ffffff;
-  }
-</style>
+
 
 <!-- Introduction -->
 <h1 align="center">Hi there, I'm Utkarsh Barde 👋</h1>
